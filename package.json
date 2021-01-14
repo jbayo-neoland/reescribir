@@ -1,0 +1,23 @@
+{
+  "name": "reescribir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:all": "tsc --watch *.ts",
+    "compile1": "tsc 1.ts",
+    "compile2": "tsc 2.ts",
+    "compile3": "tsc 3.ts",
+    "compile4": "tsc 4.ts",
+    "compile5": "tsc 5.ts",
+    "compile6": "tsc 6.ts",
+    "compile7": "tsc 7.ts",
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
